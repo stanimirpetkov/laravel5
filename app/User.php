@@ -6,7 +6,7 @@ use Illuminate\Auth\Passwords\CanResetPassword;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\CanResetPassword as CanResetPasswordContract;
 
-// laravelnew branch
+// laravel last
 
 class User extends Model implements AuthenticatableContract, CanResetPasswordContract {
 
